@@ -4,7 +4,7 @@
 .git* text
 *.json text
 *.js text
-*.md text linguist-detectable
+*.md text linguist-detectable=true
 *.{yml,yaml} text
 
 *.png binary
