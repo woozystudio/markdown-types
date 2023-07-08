@@ -53,7 +53,7 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 | Heading Big | `#` | `# This is a big text` | # This is a big text |
 | Heading Medium | `##` | `# This is a medium text` | ## This is a medium text |
 | Heading Small | `###` | `# This is a small text` | ### This is a small text |
-| Bold | `** **` or `__ __` | `**This is bold text**` | **This is bold text** |
+| Bold | `** **` | `**This is bold text**` | **This is bold text** |
 | Italic | `* *` or `_ _` | `_This text is italicized_` | *This text is italicized* |
 | Strikethrough | `~~ ~~` | `~~This was mistaken text~~` | ~~This was mistaken text~~ |
 | Underlined | `__ __` | `__This was mistaken text__` | __This was underlined text__ |
