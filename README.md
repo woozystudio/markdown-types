@@ -34,7 +34,7 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 - [x] Checkmark true
 - [ ] Checkmark false
 
-[Mqxx](https://github.com/Mqxx) has a very interesting GitHub Markdown document. There he shows more types of signs like Warning and Note but artificial, and they look as if they were original and official. I invite you to see our repository: https://github.com/Mqxx/GitHub-Markdown
+[Mqxx](https://github.com/Mqxx) has a very interesting GitHub Markdown document. There he shows more types of signs like Warning and Note but artificial, and they look as if they were original and official. I invite you to see its repository: https://github.com/Mqxx/GitHub-Markdown
 
 # Discord
 
