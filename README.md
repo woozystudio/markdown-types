@@ -28,25 +28,13 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 | Checkmark False | `- [ ] text` | None | `- [ ] This is a checkmark false example` | - [ ] This is an example |
 | Keyboard Keys Markup | `<kbd> </kbd>` | None | `<kbd>This is a Keyboard key example</kbd>` | <kbd>This is a Keyboard key example</kbd> |
 
-## Extras
-
-| Name | Syntax | Keyboard shortcut | Example | Output |
-| --- | --- | --- | --- | --- |
-| Warning Sign | `> **Warning** text` | None | `> **Warning** text` | > **Warning** text |
-| Note Sing | `> **Note** text` | None | `> **Note** text` | > **Note** text |
-
 ## Outputs not checked in the list
 
 > Quoting Text
 - [x] Checkmark true
 - [ ] Checkmark false
-> **Warning** text
 
-> **Note** text
-
-> **ProTip** text
-
-[Mqxx](https://github.com/Mqxx) has a very interesting GitHub Markdown document. There he shows more types of signs like Warning and Note but artificial, and they look as if they were original and official. I invite you to see his article: https://github.com/Mqxx/GitHub-Markdown
+[Mqxx](https://github.com/Mqxx) has a very interesting GitHub Markdown document. There he shows more types of signs like Warning and Note but artificial, and they look as if they were original and official. I invite you to see our repository: https://github.com/Mqxx/GitHub-Markdown
 
 # Discord
 
