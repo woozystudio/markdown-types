@@ -27,8 +27,30 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 | Checkmark True | `- [x] text` | None | `- [x] This is a checkmark true example` | - [x] This is an example |
 | Checkmark False | `- [ ] text` | None | `- [ ] This is a checkmark false example` | - [ ] This is an example |
 | Keyboard Keys Markup | `<kbd> </kbd>` | None | `<kbd>This is a Keyboard key example</kbd>` | <kbd>This is a Keyboard key example</kbd> |
+| Note Highlights | `> [!NOTE] ` | None | `> [!NOTE] [ENTER] > note...` | > [!NOTE] [ENTER] > note... |
+| Warning Highlights | `> [!WARNING] ` | None | `> [!WARNING] [ENTER] > warning...` | > [!WARNING] [ENTER] > warning... |
+| Important Highlights | `> [!IMPORTANT] ` | None | `> [!IMPORTANT] [ENTER] > important...` | > [!IMPORTANT] [ENTER] > important... |
 
 ## Outputs not checked in the list
+```md
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+```
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 
 > Quoting Text
 - [x] Checkmark true
@@ -54,3 +76,4 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 | All bold and italic | `*** ***` | `***All this text is important***` | ***All this text is important*** |
 | Quoting Text | `>` | `> This is a quoting text` | > This is a quoting text |
 | Quoting Code | ` `` ` | `This is a quoting code` | `This is a quoting code` |
+| Link | ` [Word](link) ` | `[Google](https://google.com)` | [Google](https://google.com) |
