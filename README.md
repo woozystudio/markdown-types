@@ -30,27 +30,41 @@ This guide is a basic mini-summary of the [Official GitHub Guide](https://docs.g
 | Note Highlights | `> [!NOTE] ` | None | `> [!NOTE] [ENTER] > note...` | > [!NOTE] [ENTER] > note... |
 | Warning Highlights | `> [!WARNING] ` | None | `> [!WARNING] [ENTER] > warning...` | > [!WARNING] [ENTER] > warning... |
 | Important Highlights | `> [!IMPORTANT] ` | None | `> [!IMPORTANT] [ENTER] > important...` | > [!IMPORTANT] [ENTER] > important... |
+| Tip Highlights | `> [!TIP] ` | None | `> [!TIP] [ENTER] > important...` | > [!TIP] [ENTER] > important... |
+| Caution Highlights | `> [!CAUTION] ` | None | `> [!CAUTION] [ENTER] > important...` | > [!CAUTION] [ENTER] > important... |
 
 ## Outputs not checked in the list
 ```md
-> [!NOTE]  
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]  
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]  
+> [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 ```
 
-> [!NOTE]  
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
-> [!IMPORTANT]  
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]  
+> [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 > Quoting Text
 - [x] Checkmark true
